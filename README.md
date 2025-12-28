@@ -2,7 +2,8 @@
 
 A next-generation Augmented Reality interface built with **Next.js 16**, **Three.js**, and **MediaPipe**. This project serves as a technical showcase and experiment powered by the coding capabilities of **Gemini 3 Pro**.
 
-![Project Preview](./src/app/opengraph-image.png)
+![Project Preview] https://magical-interface.netlify.app/
+
 
 ## 🧪 The Experiment
 

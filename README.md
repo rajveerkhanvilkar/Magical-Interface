@@ -69,12 +69,3 @@ This entire codebase was architected and implemented with the assistance of **Ge
 
 ---
 
-## 🔗 Connect
-
-- **X (Twitter)**: [@suryanshchourasia](https://x.com/suryansh777777)
-- **LinkedIn**: [Suryansh Chourasia](https://linkedin.com/in/suryansh777777)
-- **GitHub**: [@suryanshchourasia](https://github.com/suryansh777777)
-
----
-
-_Generated and refined with Gemini 3 Pro._
